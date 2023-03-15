@@ -10,4 +10,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylee990205&show_icons=true&theme=buefy)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyechan99&layout=compact&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylee990205&show_icons=true&theme=buefy)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=buefy)
