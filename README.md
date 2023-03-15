@@ -1,4 +1,3 @@
-
 <div align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=FDD1E1&height=300&section=header&text=Welcome!&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=%20Soyoung'sGITHUB&descSize=30&descAlign=65)
