@@ -1,4 +1,7 @@
+
 <div align="center">
+ 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=FDD1E1&height=300&section=header&text=Welcome!&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=%20Soyoung'sGITHUB&descSize=30&descAlign=65)
 
 ### 👋 Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsylee990205&count_bg=%23E4C7FF&title_bg=%23E6DEFF&icon=&icon_color=%237646AE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
