@@ -1,7 +1,7 @@
 ### 👋 Hi there 👋
 
 - 💻 I’m currently studying on KOSA_DKtechin_MSA기반 Full-Stack 개발자 양성 과정
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java!
 
 
 
