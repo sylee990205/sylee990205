@@ -9,11 +9,10 @@
  ### 🌱 I’m currently learning  
 <img src="https://img.shields.io/badge/java-F14C1D?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylee990205&show_icons=true&theme=buefy)  
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylee990205&show_icons=true&theme=buefy)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylee990205&layout=compact&theme=buefy)
+
  </div>
 
 
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylee990205&layout=compact&theme=buefy) -->
