@@ -16,7 +16,7 @@
  ### :trophy: My Github Status
  
  <p>
-  <img width="530em" height="180em" src="https://github-readme-stats.vercel.app/api?username=sylee990205&show_icons=true&theme=buefy">
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=sylee990205&show_icons=true&theme=buefy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylee990205&layout=compact&theme=buefy">
 </p>
  
