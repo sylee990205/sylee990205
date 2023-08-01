@@ -21,7 +21,7 @@
   <img width="400em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sylee990205&layout=compact&theme=buefy">
 </p>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sylee990205)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sylee990205)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
  #### 💙SNS💙
